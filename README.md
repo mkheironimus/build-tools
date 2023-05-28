@@ -1,5 +1,5 @@
 # build-tools
 
-##archdistcc
+## archdistcc
 
 Container for Arch Linux `distcc` volunteers.
